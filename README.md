@@ -36,3 +36,5 @@
 - [Documentação de session_manager no Strands](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/)
 - [Criando sua propria gerencia de sessão](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/#custom-session-repositories)
 - [Strands agents tools](https://github.com/strands-agents/tools)
+- [Agentcore CLI](https://github.com/aws/agentcore-cli?tab=readme-ov-file)
+- [Processamento assincrono de tarefas](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-long-run.html#runtime-long-run-implementing)
