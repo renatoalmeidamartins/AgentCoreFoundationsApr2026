@@ -7,7 +7,6 @@
 - [Acesso direto ao laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%233BLvgovP69uf3Thbr727uV)
 # Links do curso
 
-## Modulo 2
 - [RAG usando knowledge bases no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
 - [Algoritmos embarcados no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Transformers em IA](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
@@ -23,7 +22,6 @@
 - [Listagem textual de MCP servers, não mais mantida](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
 - [Registry de MCPs](https://registry.modelcontextprotocol.io/)
 
-## Modulo 2 
 - [Repo do strands](https://github.com/strands-agents/sdk-python)
 - [Documentação de strands](https://strandsagents.com/)
 - [Crew AI getting started](https://docs.crewai.com/en/quickstart)
