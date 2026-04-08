@@ -37,3 +37,5 @@
 - [search_tools, para busca semantica de ferramentas, no lugar de um list_tools generico](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
 - [Politicas em agentcore, linguagem cedar](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
 - [Fluxos de OAuth](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/common-use-cases.html)
+- [Prompts usados para coleta das métricas de AgentCore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+- [Configurar observabilidade no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
