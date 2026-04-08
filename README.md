@@ -7,7 +7,7 @@
 - [Acesso direto ao laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%233BLvgovP69uf3Thbr727uV)
 # Links do curso
 - [RAG usando knowledge bases no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
-- [Algoritmos embarcados no Sageaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+- [Algoritmos embarcados no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Transformers em IA](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Zoológico dass redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Customização de modelos no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
