@@ -1,5 +1,9 @@
 # AgentCoreFoundationsApr2026
 
+# Meus dados de contato:
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- email: renatoalmeidamartins@gmail.com
+
 # Acesso ao laboratório e materiais do curso
 - Ponto de entrada para o material é [https://myclass.skillbuilder.aws/](https://myclass.skillbuilder.aws/)
 - Documento completo com suporte ao myclass está [aqui](myClass%20Classroom%20Training%20Learner%20Guide.pdf)
