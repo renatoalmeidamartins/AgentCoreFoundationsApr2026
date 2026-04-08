@@ -36,3 +36,4 @@
 - [Strands agents tools](https://github.com/strands-agents/tools)
 - [Agentcore CLI](https://github.com/aws/agentcore-cli?tab=readme-ov-file)
 - [Processamento assincrono de tarefas](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-long-run.html#runtime-long-run-implementing)
+- [search_tools, para busca semantica de ferramentas, no lugar de um list_tools generico](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
