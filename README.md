@@ -16,3 +16,4 @@
 - [Boas práticas de criação de prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
 - [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323)
+- [Página inicial da documentação do AgentCore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
