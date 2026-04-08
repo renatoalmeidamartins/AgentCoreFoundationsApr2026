@@ -34,3 +34,5 @@
 - [Repo do A2A](https://github.com/a2aproject/A2A)
 - [Introducing Strands Agents 1.0: Production-Ready Multi-Agent Orchestration Made Simple](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-1-0-production-ready-multi-agent-orchestration-made-simple/) - atenção ao exemplo de uso de sessão
 - [Documentação de session_manager no Strands](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/)
+- [Criando sua propria gerencia de sessão](https://strandsagents.com/docs/user-guide/concepts/agents/session-management/#custom-session-repositories)
+- [Strands agents tools](https://github.com/strands-agents/tools)
