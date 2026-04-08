@@ -6,7 +6,6 @@
 - Skillbuilder, portal gigantesco com cursos, laboratórios, simulados de exame. A maior parte gratuita, alguns exigem pagamento de assinatura mensal (29 USD/mes): [https://skillbuilder.aws/](https://skillbuilder.aws/)
 - [Acesso direto ao laboratório](https://us-east-1.student.classrooms.aws.training/class/ilt%233BLvgovP69uf3Thbr727uV)
 # Links do curso
-
 - [RAG usando knowledge bases no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/kb-how-it-works.html)
 - [Algoritmos embarcados no Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 - [Transformers em IA](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
@@ -21,7 +20,6 @@
 - [MCP - definição do protocolo](https://modelcontextprotocol.io/docs/getting-started/intro)
 - [Listagem textual de MCP servers, não mais mantida](https://github.com/modelcontextprotocol/servers?tab=readme-ov-file#%EF%B8%8F-official-integrations)
 - [Registry de MCPs](https://registry.modelcontextprotocol.io/)
-
 - [Repo do strands](https://github.com/strands-agents/sdk-python)
 - [Documentação de strands](https://strandsagents.com/)
 - [Crew AI getting started](https://docs.crewai.com/en/quickstart)
@@ -37,3 +35,5 @@
 - [Agentcore CLI](https://github.com/aws/agentcore-cli?tab=readme-ov-file)
 - [Processamento assincrono de tarefas](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-long-run.html#runtime-long-run-implementing)
 - [search_tools, para busca semantica de ferramentas, no lugar de um list_tools generico](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [Politicas em agentcore, linguagem cedar](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/policy-understanding-cedar.html)
+- [Fluxos de OAuth](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/common-use-cases.html)
