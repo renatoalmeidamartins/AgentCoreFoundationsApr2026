@@ -11,3 +11,6 @@
 - [Transformers em IA](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Zoológico dass redes neurais](https://www.asimovinstitute.org/neural-network-zoo/)
 - [Customização de modelos no Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
+- [Prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+- [Boas práticas de criação de prompt]{https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
