@@ -39,3 +39,4 @@
 - [Fluxos de OAuth](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/common-use-cases.html)
 - [Prompts usados para coleta das métricas de AgentCore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
 - [Configurar observabilidade no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
+- [Repo com inumeros exemplos de agentcore, atenção à seção 02-use cases, com exemplos completos](https://github.com/awslabs/agentcore-samples/tree/main)
