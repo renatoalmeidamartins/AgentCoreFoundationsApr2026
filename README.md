@@ -44,5 +44,4 @@
 - [Prompts usados para coleta das métricas de AgentCore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
 - [Configurar observabilidade no agentcore](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
 - [Repo com inumeros exemplos de agentcore, atenção à seção 02-use cases, com exemplos completos](https://github.com/awslabs/agentcore-samples/tree/main)
-- [OWASP top 10 para applications LLM de 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
-- [Ameaças e mitigações para sistemas baseados em Agentic AI](https://genai.owasp.org/resource/agentic-ai-threats-and-mitigations/)
+
